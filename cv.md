@@ -18,7 +18,18 @@ I am a second year student of BSUIR. I have good practical programming skills, a
 * C++
 
 ## Code Example
+Initializing an array with random numbers:
 
+```
+randomize;
+for i := 1 to n do
+begin
+	for j:=1 to m do
+	begin
+     		a[i,j] := random(10);
+	end;
+end;
+```
 ## Experience
 
 ## Education
