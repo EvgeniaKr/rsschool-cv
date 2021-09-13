@@ -1,1 +1,1 @@
-https://EvgeniaKr.github.io/rsschool-cv/cv
+https://EvgeniaKr.github.io/index.html
