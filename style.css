@@ -1,0 +1,35 @@
+body {
+    background: black;
+    color: saddlebrown;
+    font: normal 14px "Helvetica Neue", Bradley Hand, cursive;
+    line-height: 1.5;
+    font-size: medium;
+    text-align: left;
+}
+
+.block1 {
+    width: 700px;
+    max-width: 100%;
+    margin-left: 485px;
+    margin-right: auto;
+    background: white;
+    padding: 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+.block2 {
+    width: 300px;
+    max-width: 100%;
+    margin-left: 175px;
+    margin-right: auto;
+    background: silver;
+    padding: 10px;
+    float: left;
+}
+
+.block3 {
+    background: silver;
+}
