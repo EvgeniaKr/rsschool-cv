@@ -1,10 +1,12 @@
 body {
     background: black;
     color: saddlebrown;
-    font: normal 14px "Helvetica Neue", Bradley Hand, cursive;
+    font-weight: normal;
+    font-family: "Comic Sans MS", Bradley Hand, cursive;
+    font-size: 18px;
     line-height: 1.5;
-    font-size: medium;
     text-align: left;
+    margin: auto;
 }
 
 .block1 {
